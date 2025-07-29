@@ -1,0 +1,1 @@
+export function Input(props: any) { return <div>{props.children}</div>; }

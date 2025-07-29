@@ -1,0 +1,1 @@
+export function Button(props: any) { return <div>{props.children}</div>; }
